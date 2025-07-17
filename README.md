@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/manueltarouca-limitless-mcp-server-badge.png)](https://mseep.ai/app/manueltarouca-limitless-mcp-server)
+
 # Limitless MCP Integration
 
 This repository provides a minimal MCP server/client implementation for interacting with the Limitless Developer API (GET endpoint only). It demonstrates how to expose API endpoints as MCP tools and how to call them via a client using a single merged codebase.
